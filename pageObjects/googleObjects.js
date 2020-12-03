@@ -1,5 +1,5 @@
 module.exports = {
-    url: 'https://www.google.com/',
+    url: 'https://www.amd.com/en/shop/us/Desktop%20Processors',
     elements: {
         results: '#res',
         searchBarCss: 'input[name="q"]',
